@@ -1,4 +1,4 @@
-# ShortReconings auto-select script for Tampremonkey
+# ShortReckonings auto-select script for Tampremonkey
 
 - Auto-selects you in "Who paid?" section
 - Auto-selects you in "For who?" section

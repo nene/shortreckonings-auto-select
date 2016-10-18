@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ShortReconings auto-select
+// @name         ShortReckonings auto-select
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Saves precious time when it was your turn to pay.
